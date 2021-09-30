@@ -9,7 +9,7 @@ labels: "Bug 🐞"
 
 ### Expected behavior
 
-### Actual behavior
+### Actual behaviors
 
 ### Device & build information
 * Device: ?
